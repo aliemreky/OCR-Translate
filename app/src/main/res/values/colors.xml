@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#0069C0</color>
+    <color name="colorAccent">#F44436</color>
+
+    <color name="colorNavIcon">#dae9f6</color>
+    <color name="colorNavText">#01294b</color>
+
+    <color name="headerBar">#03A596</color>
+
+    <color name="grey">#E5E5E5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="whiteTransparentHalf">#80ffffff</color>
+    <color name="general">#112F41</color>
+    <color name="radiusBorder">#FF8926</color>
+
+</resources>

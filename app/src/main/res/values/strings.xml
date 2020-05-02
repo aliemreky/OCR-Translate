@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCR - TRANSLATE</string>
+    <string name="read_text">Detect Text</string>
+
+    <string name="accessibility_shutter_button">Shutter button</string>
+
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, duo id tale nostro, ei cum torquatos quaerendum. Ex noster patrioque nec, mei ea meliore ocurreret hendrerit. Graeco eirmod nostrum te eum, vel te bonorum nusquam molestiae, sit ex erant mandamus. </string>
+
+</resources>
